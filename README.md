@@ -1,4 +1,10 @@
-# Java-web-project-S4
+# Welcome to my Java web project
+## This project is about creating shopping cart for selling vegetable. The project will work best on `Desktop`
+### About this project:
+* Using JSTL - JSP - CSS for Frontend
+* Using MS SQL for database management
+* Using Servlets, a java class that inherits from HTTP servlets, handled on the server side, where requests are received from Web Clients.
+* Using JDBC in order to connect to the database
 
 ## UI
 ### Login/Register
