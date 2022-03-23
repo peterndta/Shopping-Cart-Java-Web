@@ -9,7 +9,7 @@
 ## UI
 ### Login/Register
   *Login*
-![This is an image](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/272089681_495422325435228_2045571141626506618_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Fd14Nr95nWEAX_ggQuC&_nc_ht=scontent.fsgn2-3.fna&oh=03_AVKrcpNarlHhqGqVFwY5WuJKlbDYNFBw2WJKdcLA4XcusA&oe=6223B44B)
+![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/Login.jpg)
 
   *Register*
 ![This is an image](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/272320117_2721903741439517_8421497004450926608_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=ae9488&_nc_ohc=M-HtnB1AJzEAX9HL58G&_nc_ht=scontent.fsgn2-3.fna&oh=03_AVJNomWh9sJeoSpgBoexwHawgwJ9v4uYZi7IXtsZVWD3RA&oe=62242B61)
