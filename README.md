@@ -6,6 +6,8 @@
 * Using Servlets, a java class that inherits from HTTP servlets, handled on the server side, where requests are received from Web Clients.
 * Using JDBC in order to connect to the database
 
+© peterndta
+
 ## UI
 ### Login/Register
   *Login*
